@@ -5,7 +5,4 @@ branches:
 projects:
   PartyEngine:
     path: ""
-    libs:
-      - src: EasyUI
-        version: ^1.0.2    
 ...
