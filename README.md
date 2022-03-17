@@ -5,3 +5,4 @@ The partyengine used for thebridge
 - TheBridge Support
 # Libs/Depends
 - TheBridge (https://github.com/ItzToxicGG/TheBridge)
+- EazyUI (https://github.com/andresbytes/EasyUI)
