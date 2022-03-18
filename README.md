@@ -4,5 +4,5 @@ The partyengine used for thebridge
 - FormAPI Support
 - TheBridge Support
 # Libs/Depends
-- TheBridge (https://github.com/ItzToxicGG/TheBridge)
+- TheBridge (https://github.com/ItsToxicGG/TheBridge)
 - EazyUI (https://github.com/andresbytes/EasyUI)
